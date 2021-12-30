@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoutanBasak
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Google Data Analytics
+- 👀 I’m interested in Data Science
+- 🌱 I've recently completed Google Data Analytics Specialization Course
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me soutanbasak@gmail.com
 
