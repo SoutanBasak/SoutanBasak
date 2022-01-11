@@ -10,8 +10,8 @@
 [![Soutan's github stats](https://github-readme-stats.vercel.app/api?username=SoutanBasak&count_private=true&include_all_commits=true&theme=chartreuse-dark)](https://google.com)
 
 ## 📫 Tools and Languages:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" />]
-[<img align="left" alt="Tableau" width="22px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />]
+<img align="left" alt="python" width="100px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" />
+<img align="left" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />]
