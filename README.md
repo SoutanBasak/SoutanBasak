@@ -19,7 +19,6 @@
 <img align="left" alt="Excel" width="150px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="left" alt="PowerPoint" width="200px" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 <img align="left" alt="Word" width="150px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img align="center" alt="Office" width="150px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img align="center" alt="Tableau" width="100px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 
@@ -30,11 +29,11 @@
 <img align="center" alt="R" width="60px" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
 
 
-## Databases:
+## :floppy_disk: Databases:
 <img align="left" alt="Mysql" width="100px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="SQlite" width="100px" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-## Platforms:
+## :hourglass_flowing_sand: Platforms:
 <img align="left"  width="100px" alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 <img align="left" width="100px" alt="Spyder" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" />
 <img align="left" width="100px" alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
