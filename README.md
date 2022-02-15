@@ -5,7 +5,7 @@
 <img align="center" alt="soutan" src="https://img.shields.io/badge/Learning-Data%20Science-blue"/> <img align="center" alt="soutan" src="https://img.shields.io/badge/and-Data%20Analytics-brightgreen"/>
 
 - 👀 I’m interested in <img align="center" alt="soutan" src="https://img.shields.io/badge/-Data%20Science-blue"/>
-- 🌱 I've recently completed <img align="center" alt="soutan" src="https://img.shields.io/badge/-Google%20Data%20Analytics%20Specialization%20Course-orange"/> @ <img align="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+- 🌱 I've recently completed <img align="center" alt="soutan" width="500px" src="https://img.shields.io/badge/-Google%20Data%20Analytics%20Specialization%20Course-orange"/> @ <img align="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 - ✨ I’m currently learning - <img align="center" alt="soutan" src="https://img.shields.io/badge/-Data%20Science-blue"/> <img align="center" alt="soutan" src="https://img.shields.io/badge/and-Data%20Analytics-brightgreen"/>
 - 👯 I’m looking to collaborate with Other <img align="center" alt="soutan" src="https://img.shields.io/badge/-Data%20Scientists-yellow"/> <img align="center" alt="soutan" src="https://img.shields.io/badge/and-Data%20Analysts-yellowgreen"/>
 
