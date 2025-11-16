@@ -29,8 +29,8 @@
 <img align="left" alt="python" width="100px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img align="left" alt="Pandas" width="100px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="JavaScript" width="70px" src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
-<img align="left" alt="HTML" width="70px" src="https://img.shields.io/badge/HTML?style=for-the-badge&logo=html&logoColor=white" />
-<img align="left" alt="CSS" width="70px" src="https://img.shields.io/badge/CSS?style=for-the-badge&logo=css&logoColor=white" />
+<img align="left" alt="HTML" width="70px" src="https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=html&logoColor=white" />
+<img align="left" alt="CSS" width="70px" src="https://img.shields.io/badge/CSS-ED8B00?style=for-the-badge&logo=css&logoColor=white" />
 <img align="center" alt="R" width="60px" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
 
 
