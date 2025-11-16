@@ -25,6 +25,7 @@
 
 
 ## :computer: Languages:
+<img align="left" alt="vb.net" width="100px" src="https://img.shields.io/badge/VB.net-FFD43B?style=for-the-badge&logo=vb&logoColor=darkgreen" />
 <img align="left" alt="python" width="100px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img align="left" alt="Pandas" width="100px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="Java" width="70px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
