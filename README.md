@@ -41,6 +41,7 @@
 <img align="center" alt="PostgreSQL" width="150px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ## :hourglass_flowing_sand: Platforms:
+<img align="left"  width="100px" alt="VisualStudio" src="https://img.shields.io/badge/VisualStudio-75AADB?style=for-the-badge&logo=VisualStudio&logoColor=white" />
 <img align="left"  width="100px" alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 <img align="left" width="100px" alt="Spyder" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" />
 <img align="left" width="100px" alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
