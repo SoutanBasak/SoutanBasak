@@ -2,7 +2,6 @@
 
 # 👋 Hi, I’m Soutan
 
-<img align="center" alt="soutan" src="https://img.shields.io/badge/Learning-Data%20Science-blue"/> <img align="center" alt="soutan" src="https://img.shields.io/badge/and-Data%20Analytics-brightgreen"/>
 
 - 👀 I’m interested in <img align="center" alt="soutan" src="https://img.shields.io/badge/-Software%20Development-blue"/>
 - ✨ I'm currenty learning <img align="center" alt="soutan" width="500px" src="https://img.shields.io/badge/-IBM%20FullStack%20JavaScript%20Developer%20Course-orange"/> @ <img align="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
